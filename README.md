@@ -1,7 +1,7 @@
 # Intro to Small Satellites and Their Applications
 
 ## Poster
-<img src="./poster/api-smallsat.jpg" width="48">
+<img src="./poster/api-smallsat.jpg" width="480">
 
 This episode will offer a close look at small satellites, 
 what they are, their applications and benefits, and how 
