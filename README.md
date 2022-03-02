@@ -3,7 +3,7 @@ AUPP Pro Insight Webinar - Intro to Small Satellites and Their Applications
 
 
 ## Poster
-![](./api-smallsat.jpg)
+![](./poster/api-smallsat.jpg)
 
 This episode will offer a close look at small satellites, what they are, their applications and benefits, and how they have been used to promote space and STEM education for fostering and kick-starting indigenous space programs in many countries around the world.
 
