@@ -49,5 +49,4 @@ You can download the PDF [Here](./API_SmallSatApplications.pdf)
 ![](./img/Slide34.png)
 ![](./img/Slide35.png)
 ![](./img/Slide36.png)
-![](./img/Slide77.png)
 
