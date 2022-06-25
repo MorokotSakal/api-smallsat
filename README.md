@@ -1,8 +1,6 @@
 # Intro to Small Satellites and Their Applications
 
-## Poster
-<img src="./poster/api-smallsat.jpg" width="680">
-
+## Overview
 This episode will offer a close look at small satellites, 
 what they are, their applications and benefits, and how 
 they have been used to promote space and STEM education 
