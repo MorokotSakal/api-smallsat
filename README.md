@@ -12,7 +12,6 @@ in many countries around the world.
 You can download the PDF [Here](./API_SmallSatApplications.pdf)
 
 ![](./img/Slide1.png)
-![](./img/Slide2.png)
 ![](./img/Slide3.png)
 ![](./img/Slide4.png)
 ![](./img/Slide5.png)
